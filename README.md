@@ -1,1 +1,1 @@
-# weather-widget
+# weather-widget  Aleksandra Hrevtsova
